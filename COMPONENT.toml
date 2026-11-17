@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-ubuntu"
-description = "Ubuntu cloud-init, snapd, and debian packaging bridge"
+description = "SigmaOS component: SigmaOS-linux-ubuntu"
 version = "0.1.0"
 tier = 3
 
